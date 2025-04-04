@@ -2,26 +2,50 @@
 {
   "0":{
   "id":"1",
-  "name":"MUZANGALA TV",
+  "name":"TV LA CAPITALE",
   "description":"1501",
-  "live_url":"https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8",
-  "thumbnail":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
+  "live_url":"https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
   "categorie":"SPORTS"
   },
   "1":{
   "id": "2",
-  "name": "TVI AFRICA",
+  "name": "CHAMPION TV",
   "description": "1502",
-  "live_url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
+  "live_url": "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
   "categorie": "SPORTS"
   },
   "2":{
   "id": "3",
-  "name": "KK TV",
+  "name": "GLORY CHANNEL TV",
   "description": "1503",
-  "live_url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg",
+  "live_url": "https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg",
+  "categorie": "SPORTS"
+  },
+  "3":{
+  "id": "4",
+  "name": "EXPLOITS TV",
+  "description": "1504",
+  "live_url": "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
+  "categorie": "SPORTS"
+  },
+  "4":{
+  "id": "5",
+  "name": "ECLAT DE GLOIRE TV",
+  "description": "1505",
+  "live_url": "https://stream.berosat.live:19360/eclat-gloire-stream/eclat-gloire-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzkzNDY5MzZf/EclatdeGloire.jpg",
+  "categorie": "SPORTS"
+  },
+  "5":{
+  "id": "6",
+  "name": "GMC TV",
+  "description": "1506",
+  "live_url": "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzg4ODg5MzFf/gmctv.jpg",
   "categorie": "SPORTS"
   }
 }
