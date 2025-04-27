@@ -191,5 +191,13 @@
   "live_url": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18zMDM4NzU1NDRf/alphaetomega.jpg",
   "categorie": "SPORTS"
+  },
+  "24":{
+  "id": "25",
+  "name": "GOSPEL AGENCY TV",
+  "description": "1525",
+  "live_url": "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg",
+  "categorie": "SPORTS"
   }
 }
