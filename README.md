@@ -199,5 +199,13 @@
   "live_url": "https://stream.berosat.live:19360/gospel-agency-stream/gospel-agency-stream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg",
   "categorie": "SPORTS"
+  },
+  "25":{
+  "id": "26",
+  "name": "SHAVAX TV",
+  "description": "1526",
+  "live_url": "https://stream.berosat.live:19360/shavax-tv/shavax-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png",
+  "categorie": "SPORTS"
   }
 }
